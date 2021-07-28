@@ -1,0 +1,15 @@
+ID,MODELNUMBER,LAPTOPNAME,SIZE,MANUFACTURER,PRICE,RANGE,AVAILABLECOLORS,CATEGORY
+101,PH315,Predator Helios,15"",Acer,150000,Medium,Black,Notebook
+102,M1A8,Strix SCAR,17"",ROG,180000,Medium,Blue,Notebook
+103,CB311,Acer Chromebook,14"",Acer,90000,Low,Grey,Chromebook
+104,QA95,XPS,13"",Dell,260000,High,Grey;White;Black,Convertible
+105,GX701,Zephyrus S,17"",ROG,320000,High,White;Blue;Black,Ultrabook
+106,PB83,MacBook Pro,16"",Apple,410500,High,Grey,Macbook
+107,T3Q1,MacBook Air,13"",Apple,190000,Medium,Grey,Macbook
+108,GS65,GS Stealth,15"",MSI,200000,Medium,Grey;Black,Notebook
+109,N0C2,Nitro,15"",Acer,120000,Low,Black,Notebook
+110,E1K93,Latitude,14"",Dell,95000,Low,Red;Blue,Convertible
+111,F1B76,GT Titan,17"",MSI,285000,High,Blue;Black,Classic
+112,JP15,Chromebook Spin,18"",Acer,140000,Medium,White,Chromebook
+113,G6R2,GE Raider,16"",MSI,130000,Medium,Red;Blue,Ultrabook
+114,R4H7,Inspiron,15"",Dell,115000,Low,Black,Classic
